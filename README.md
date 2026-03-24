@@ -1,6 +1,6 @@
 
 ##Contact Information:
-##austinsolache@gmail.com
+austinsolache@gmail.com
 https://github.com/Soyleche
 www.linkedin.com/in/austinsolache
 
