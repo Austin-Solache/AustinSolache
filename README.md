@@ -1,18 +1,16 @@
-# austin-solache
-README file about.... me!
 
-Contact Information:
+##Contact Information:
 austinsolache@gmail.com
 https://github.com/Soyleche
 www.linkedin.com/in/austinsolache
 
-Coding Languages
+##Coding Languages
 JavaScript
 HTML/CSS
 MySql
 Python
 
-Projects:
+##Projects:
 <!DOCTYPE html>
 <html>
     <head>
