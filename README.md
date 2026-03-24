@@ -9,7 +9,7 @@ www.linkedin.com/in/austinsolache
 
 ##Coding Languages
 
-JavaScript
+[JavaScript](https://skillicons.dev/icons?i=all)
 
 HTML/CSS
 
