@@ -19,5 +19,9 @@ www.linkedin.com/in/austinsolache
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
+##Projects
+https://austin-solache.github.io/ProjectCar/index.html (Website to help users Decide which used vehicle is right for them)
 
-https://austin-solache.github.io/ProjectCar/index.html
+##Goals
+
+Learn React and TailWind CSS
